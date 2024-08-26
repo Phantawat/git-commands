@@ -1,13 +1,13 @@
 ## Common Git Commands
-## HAHAHAHA
+
+## Something else
+
 
 1. Check status of the repo:
 ```
 git status
 ```
-2. Git guide
+2. View differences between your working copy and current "HEAD" in git
 ```
-## The Ultimate Guide to Using Git  (change the title)
+git diff
 ```
-
-
